@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1623557095 source:c:\users\erica\documents\github\maze-erica-buchanan\buchanan_maze\main.cpp
+	"includes.h"
+	"Maze.h"
+
+1623168923 source:c:\users\erica\documents\github\maze-erica-buchanan\buchanan_maze\functions.cpp
+
+1623170074 c:\users\erica\documents\github\maze-erica-buchanan\buchanan_maze\prototypes.h
+	<iostream>
+	<vector>
+	<apmatrix.h>
+	<fstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<string.h>
+
+1623555397 source:c:\users\erica\documents\github\maze-erica-buchanan\buchanan_maze\allegrofunctions.cpp
+	"Maze.h"
+
+1623556934 source:c:\users\erica\documents\github\maze-erica-buchanan\buchanan_maze\maze.cpp
+	"Maze.h"
+
+1623555717 c:\users\erica\documents\github\maze-erica-buchanan\buchanan_maze\maze.h
+	"includes.h"
+
+1623555457 c:\users\erica\documents\github\maze-erica-buchanan\buchanan_maze\includes.h
+	<iostream>
+	<vector>
+	<apmatrix.h>
+	<fstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<string.h>
+
